@@ -1,2 +1,8 @@
 # Sentimental-Analysis
-This project is help for analysis the live human sentiment 
+This project is help for analysis the live human sentiment by a live webcame
+Import	   Package to install	                             Purpose
+----------------------------------------------------------------------------------------------------------
+cv2	    opencv-python	   Webcam capture, face detection (Haar cascade), drawing rectangles/text
+numpy	        numpy	                         Array reshaping for the model input
+tensorflow.  tensorflow	                    Loading and running your .keras emotion model
+----------------------------------------------------------------------------------------------------------
